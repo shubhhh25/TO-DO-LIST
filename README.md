@@ -21,7 +21,8 @@ TO RUN THE FOLLOWING PROJECT FOLLOW THIS STEPS.
 
 -MIGRATION OF FILE TO DATABASE
 >python manage.py makemigrations
+
 >python manage.py migrate
 
 -RUNSERVER
-python manage.py runserver
+>python manage.py runserver
